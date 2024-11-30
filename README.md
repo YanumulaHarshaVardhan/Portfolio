@@ -1,5 +1,5 @@
-# ❤️ Harsha Portfolio 🙏
-### _This is my Portfolio Project, I made it using HTML, CSS and Javascript._ [Watch Live]()
+# Harsha Portfolio
+### _This is my Portfolio Project, I made it using HTML, CSS and Javascript._ [Watch Live](https://portfolio-69i2sm5r8-yanumula-harsha-vardhans-projects.vercel.app/)
 
 
 ## 🔥 Clone this Repository
@@ -27,5 +27,5 @@ This application should now be running on `localhost`.
 
 
 ## 🔗 Let's Connect
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-69i2sm5r8-yanumula-harsha-vardhans-projects.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanumula-harsha-9bbb57290/)
